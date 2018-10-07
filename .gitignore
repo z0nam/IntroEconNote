@@ -3,4 +3,5 @@
 *.aux
 *.log
 *.gz
-
+*.tex
+*.lb
